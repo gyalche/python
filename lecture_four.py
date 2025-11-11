@@ -29,7 +29,6 @@ print(sum(le))
 liste.update({"new_key": "new_value"})
 print(liste)
 
-
 #SET -> A set is an unordered collection of unique items. Sets are defined using curly braces {} or the set() constructor.
 collection = {1,2,3,4,5,5,5,6,7,8,9, 8, 2,2,2,2}
 print(type(collection))
